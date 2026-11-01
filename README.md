@@ -2,7 +2,7 @@
 Welcome to my GitHub Profile :)
 
 ## About Me
-17 y/o dev from Cologne in Germany (UTC+1 / UTC+2) who spends way too much time inside. Mainly focused on backend and overall Minecraft development like (client) mods, servers / plugins (and sometimes datapacks) with a affection to IT Security. Sometimes I do web development aswell.. (looking up how to center a div every time again)
+18 y/o dev from Cologne in Germany (UTC+1 / UTC+2) who spends way too much time inside. Mainly focused on backend and overall Minecraft development like (client) mods, servers / plugins (and sometimes datapacks) with a affection to IT Security. Sometimes I do web development aswell.. (looking up how to center a div every time again)
 
 ## My Stats
 <div>
