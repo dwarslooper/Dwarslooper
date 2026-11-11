@@ -4,6 +4,8 @@ Welcome to my GitHub Profile :)
 ## About Me
 18 y/o dev from Cologne in Germany (UTC+1 / UTC+2) who spends way too much time inside. Mainly focused on backend and overall Minecraft development like (client) mods, servers / plugins (and sometimes datapacks) with a affection to IT Security. Sometimes I do web development aswell.. (looking up how to center a div every time again)
 
+I spend way too much time inside "engineering" all kinds of systems, mostly without really knowing what I'm doing, but it works out somehow most of the time.
+
 ## My Stats
 <div>
   <img src="https://streak-stats.demolab.com?user=dwarslooper&fire=EB9779&ring=B4B4B4A5&currStreakNum=CFEBA3&background=00000000&border=00000000&currStreakLabel=EBEBEB&sideLabels=EBEBEB&excludeDaysLabel=EBEBEB&sideNums=EBEBEB&dates=83D67C" alt="GitHub Streak" />
